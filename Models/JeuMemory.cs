@@ -91,5 +91,28 @@ namespace SecurIT_Memory.Models
 
             return false;
         }
+
+        /// <summary>
+        /// Réinitialise l'état de deux cartes à "Cachee" suite à une erreur du joueur.
+        /// Appelée par l'interface graphique une fois le délai de mémorisation écoulé.
+        /// </summary>
+        /// <param name="carte1">La première carte sélectionnée.</param>
+        /// <param name="carte2">La deuxième carte sélectionnée.</param>
+        public void ReinitialisationCartes(Carte carte1, Carte carte2)
+        {
+            // On vérifie par sécurité qu'on ne cache pas des cartes déjà trouvées
+            if (carte1.Etat != EtatCarte.Trouvee)
+            {
+                carte1.Etat = EtatCarte.Cachee;
+            }
+            
+            if (carte2.Etat != EtatCarte.Trouvee)
+            {
+                carte2.Etat = EtatCarte.Cachee;
+            }
+
+            // Note pour le bonus : C'est ici que l'on pourra ajouter la logique
+            // du "Mode Hardcore" pour échanger les positions de ces cartes à l'avenir !
+        }
     }
 }
