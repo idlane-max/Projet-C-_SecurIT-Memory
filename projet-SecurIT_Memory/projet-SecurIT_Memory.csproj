@@ -1,0 +1,116 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>projet_SecurIT_Memory</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net10.0-windows\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net10.0-windows\projet-SecurIT_Memory.deps.json" />
+    <Content Include="bin\Debug\net10.0-windows\projet-SecurIT_Memory.runtimeconfig.json" />
+    <Content Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.designer.deps.json" />
+    <Content Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.designer.runtimeconfig.json" />
+    <Content Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.sourcelink.json" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\projet-SecurIT_Memory.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net10.0-windows\projet-SecurIT_Memory.dll" />
+    <None Include="bin\Debug\net10.0-windows\projet-SecurIT_Memory.exe" />
+    <None Include="bin\Debug\net10.0-windows\projet-SecurIT_Memory.pdb" />
+    <None Include="obj\Debug\net10.0-windows\apphost.exe" />
+    <None Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.assets.cache" />
+    <None Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.dll" />
+    <None Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net10.0-windows\projet-SecurIT_Memory.pdb" />
+    <None Include="obj\Debug\net10.0-windows\projet_SecurIT_Memory.Form1.resources" />
+    <None Include="obj\Debug\net10.0-windows\projet_SecurIT_Memory.UI.FormMenu.resources" />
+    <None Include="obj\Debug\net10.0-windows\refint\projet-SecurIT_Memory.dll" />
+    <None Include="obj\Debug\net10.0-windows\ref\projet-SecurIT_Memory.dll" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\projet-SecurIT_Memory.csproj.nuget.g.props" />
+    <None Include="obj\projet-SecurIT_Memory.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Images\cadenas.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\cle_rsa.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\hacker.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\parefeu.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\phishing.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\virus.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Images\vpn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Ressources\Images\cadenas.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Ressources\Images\cle_rsa.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Ressources\Images\hacker.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Ressources\Images\parefeu.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Ressources\Images\phishing.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Ressources\Images\Virus.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Ressources\Images\vpn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net10.0-windows\Ressources\Images\" />
+    <Folder Include="bin\Release\net10.0-windows\" />
+  </ItemGroup>
+
+</Project>

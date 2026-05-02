@@ -3,60 +3,27 @@
   "WorkspaceRootPath": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\ui\\formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\ui\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08A52BE6-CFCA-48D4-BA42-4BF8295B6E6F}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-securit_memory\\ui\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08A52BE6-CFCA-48D4-BA42-4BF8295B6E6F}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\ui\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|solutionrelative:ui\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\models\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\models\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\models\\jeumemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|solutionrelative:models\\jeumemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-securit_memory\\ui\\formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\ui\\formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|solutionrelative:ui\\formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-securit_memory\\ui\\formoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08A52BE6-CFCA-48D4-BA42-4BF8295B6E6F}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-securit_memory\\ui\\formoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08A52BE6-CFCA-48D4-BA42-4BF8295B6E6F}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\ui\\formoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\ui\\formmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\ui\\formjeu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formjeu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\ui\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\ui\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\models\\etatcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\models\\etatcarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory\\models\\jeumemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB67FE-1F56-EA30-422D-CE193BF7FA58}|projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory\\models\\jeumemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|c:\\ynov_b2\\projet-c-_securit-memory\\projet-securit_memory\\projet-securit_memory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7A148BA-DB1D-2565-196C-4CCC7307C248}|projet-SecurIT_Memory.csproj|solutionrelative:projet-securit_memory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,19 +33,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormMenu.cs [Conception]",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormMenu.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormMenu.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormMenu.cs [Conception]",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormMenu.cs [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:54:16.321Z",
-              "EditorCaption": " [Conception]"
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-02T18:03:27.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -86,160 +54,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormJeu.cs [Conception]",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormJeu.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormJeu.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormJeu.cs [Conception]",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormJeu.cs [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:32:32.199Z",
-              "EditorCaption": " [Conception]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormOptions.cs [Conception]",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormOptions.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormOptions.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormOptions.cs [Conception]*",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormOptions.cs [Conception]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:29:26.537Z"
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\README.md",
+              "RelativeDocumentMoniker": "..\\README.md",
+              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\README.md",
+              "RelativeToolTip": "..\\README.md",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-02T18:03:48.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FormMenu.cs [Conception]",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormMenu.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormMenu.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormMenu.cs [Conception]",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormMenu.cs [Conception]",
+              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\UI\\FormMenu.cs",
+              "RelativeDocumentMoniker": "UI\\FormMenu.cs",
+              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\UI\\FormMenu.cs [Conception]",
+              "RelativeToolTip": "UI\\FormMenu.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:37:10.776Z"
+              "WhenOpened": "2026-05-02T17:59:50.242Z",
+              "EditorCaption": " [Conception]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormMenu.Designer.cs",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormMenu.Designer.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormMenu.Designer.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormMenu.Designer.cs",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormMenu.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:33:35.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormJeu.Designer.cs",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormJeu.Designer.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormJeu.Designer.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormJeu.Designer.cs",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormJeu.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:33:01.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormJeu.cs",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormJeu.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormJeu.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormJeu.cs",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormJeu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T14:26:31.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormOptions.cs [Conception]",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormOptions.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormOptions.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormOptions.cs [Conception]",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormOptions.cs [Conception]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:57:09.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\Program.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\Program.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\Program.cs",
-              "RelativeToolTip": "projet-SecurIT_Memory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:16:38.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormOptions.cs",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormOptions.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormOptions.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormOptions.cs",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormOptions.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwDgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:15:56.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormMenu.cs",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormMenu.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\UI\\FormMenu.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\UI\\FormMenu.cs",
-              "RelativeToolTip": "projet-SecurIT_Memory\\UI\\FormMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:15:02.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EtatCarte.cs",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\Models\\EtatCarte.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\Models\\EtatCarte.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\Models\\EtatCarte.cs",
-              "RelativeToolTip": "projet-SecurIT_Memory\\Models\\EtatCarte.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:10:34.95Z"
+              "DocumentIndex": 5,
+              "Title": "projet-SecurIT_Memory.csproj",
+              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj",
+              "RelativeDocumentMoniker": "projet-SecurIT_Memory.csproj",
+              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory.csproj",
+              "RelativeToolTip": "projet-SecurIT_Memory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T11:26:24.077Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Carte.cs",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\Models\\Carte.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\Models\\Carte.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\Models\\Carte.cs",
-              "RelativeToolTip": "projet-SecurIT_Memory\\Models\\Carte.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA8AAAAsAAAAAAAAAA==",
+              "Title": "JeuMemory.cs",
+              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\Models\\JeuMemory.cs",
+              "RelativeDocumentMoniker": "Models\\JeuMemory.cs",
+              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\Models\\JeuMemory.cs",
+              "RelativeToolTip": "Models\\JeuMemory.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:09:41.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T11:23:28.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "JeuMemory.cs",
-              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\Models\\JeuMemory.cs",
-              "RelativeDocumentMoniker": "projet-SecurIT_Memory\\Models\\JeuMemory.cs",
-              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\projet-SecurIT_Memory\\Models\\JeuMemory.cs",
-              "RelativeToolTip": "projet-SecurIT_Memory\\Models\\JeuMemory.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwCcAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FormJeu.cs",
+              "DocumentMoniker": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\UI\\FormJeu.cs",
+              "RelativeDocumentMoniker": "UI\\FormJeu.cs",
+              "ToolTip": "C:\\Ynov_B2\\Projet-C-_SecurIT-Memory\\projet-SecurIT_Memory\\UI\\FormJeu.cs",
+              "RelativeToolTip": "UI\\FormJeu.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwBIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:10:48.833Z"
+              "WhenOpened": "2026-05-02T11:05:13.951Z"
             }
           ]
         }
