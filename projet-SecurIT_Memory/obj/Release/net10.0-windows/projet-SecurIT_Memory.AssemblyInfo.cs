@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projet-SecurIT_Memory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad439c5eea81314a249619e414f9765a145b8dc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02b18c4e8039f6eed2cf0f54c22b1e97b4f6e30c")]
 [assembly: System.Reflection.AssemblyProductAttribute("projet-SecurIT_Memory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projet-SecurIT_Memory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
