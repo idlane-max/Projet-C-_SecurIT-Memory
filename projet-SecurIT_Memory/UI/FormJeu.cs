@@ -4,6 +4,7 @@ using System.Windows.Forms;
 using System.Linq; // Pour la validation simplifiée de la victoire via .All()
 using SecurIT_Memory.Models; // Accès au moteur JeuMemory et à la classe Carte
 using Timer = System.Windows.Forms.Timer;
+using System.Media; // Pour les sons 
 
 namespace SecurIT_Memory.UI
 {
@@ -33,12 +34,19 @@ namespace SecurIT_Memory.UI
         private Timer _timerDelai;   // Délai avant de retourner les cartes si erreur
         private Timer _timerChrono;  // Chronomètre de la partie
 
+        // --- Gestion des sons  ---
+        private SoundPlayer sonClic;
+        private SoundPlayer sonSucces;
+        private SoundPlayer sonVictoire;
+
         /// <summary>
         /// Constructeur injecté : impose les dimensions dès la création.
         /// </summary>
         public FormJeu(int lignes, int colonnes)
         {
             InitializeComponent();
+
+            InitialiserSons();
 
             // Configuration de base de la fenêtre
             this.Text = "SecurIT Memory - Stand Salon Tech";
@@ -153,6 +161,9 @@ namespace SecurIT_Memory.UI
             c.Etat = EtatCarte.Revelee;
             AfficherImageCarte(pb, c);
 
+            //On joue le son du clic dès que la carte se retourne
+            sonClic?.Play();
+
             // 2. Logique de sélection
             if (_premiereCarte == null)
             {
@@ -169,6 +180,9 @@ namespace SecurIT_Memory.UI
                 // 3. Vérification
                 if (_moteurJeu.VerifierPaire(_premiereCarte, _secondeCarte))
                 {
+                    // Le moteur confirme que c'est une paire, on joue le succès !
+                    sonSucces?.Play();
+
                     ReinitialiserSelection();
                     VerifierVictoire();
                 }
@@ -205,6 +219,10 @@ namespace SecurIT_Memory.UI
             if (_moteurJeu.Cartes.All(c => c.Etat == EtatCarte.Trouvee))
             {
                 _timerChrono.Stop();
+
+                // La partie est gagnée, on lance la fanfare !
+                sonVictoire?.Play();
+
                 MessageBox.Show($"Bravo ! Stand SecurIT sécurisé !\nTemps : {_lblChrono.Text}\nEssais : {_nbEssais}", "Victoire !");
                 this.Close(); // Retour au menu
             }
@@ -221,7 +239,7 @@ namespace SecurIT_Memory.UI
                 pb.Image?.Dispose();
 
                 // 2. Création d'un chemin ABSOLU et robuste
-                // BaseDirectory pointe toujours vers le dossier où se trouve ton .exe (bin/Debug/...)
+                // BaseDirectory pointe toujours vers le dossier où se trouve le .exe (bin/Debug/...)
                 string dossierApplication = System.AppDomain.CurrentDomain.BaseDirectory;
                 string cheminComplet = System.IO.Path.Combine(dossierApplication, c.ImagePath);
 
@@ -255,6 +273,31 @@ namespace SecurIT_Memory.UI
         {
             _premiereCarte = null; _premierePicBox = null;
             _secondeCarte = null; _secondePicBox = null;
+        }
+
+        /// <summary>
+        /// Prépare les lecteurs audio en utilisant les chemins absolus vers le dossier Sons.
+        /// </summary>
+        private void InitialiserSons()
+        {
+            try
+            {
+                string dossierApp = System.AppDomain.CurrentDomain.BaseDirectory;
+
+                // On associe chaque lecteur à son fichier audio physique
+                sonClic = new SoundPlayer(System.IO.Path.Combine(dossierApp, "Ressources/Sons/clic.wav"));
+                sonSucces = new SoundPlayer(System.IO.Path.Combine(dossierApp, "Ressources/Sons/succes.wav"));
+                sonVictoire = new SoundPlayer(System.IO.Path.Combine(dossierApp, "Ressources/Sons/victoire.wav"));
+
+                // Précharge les sons en mémoire
+                sonClic.LoadAsync();
+                sonSucces.LoadAsync();
+                sonVictoire.LoadAsync();
+            }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine("Erreur de chargement des sons : " + ex.Message);
+            }
         }
     }
 }
