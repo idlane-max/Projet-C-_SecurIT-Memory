@@ -36,8 +36,8 @@ namespace SecurIT_Memory.Models
             // Dans un vrai projet, ces chemins proviendraient d'une configuration.
             // Pour l'instant, on simule une banque d'images de cybersécurité.
             string[] banqueImages = {
-                "Images/Virus.png", "Images/parefeu.png", "Images/cadenas.png",
-                "Images/mdp.png", "Images/hacker.png", "Images/phishing.png",
+                "Images/virus.png", "Images/parefeu.png", "Images/cadenas.png",
+                "Images/ssl-65.png", "Images/hacker.png", "Images/phishing.png",
                 "Images/vpn.png", "Images/cle_rsa.png"
             };
 
@@ -45,12 +45,13 @@ namespace SecurIT_Memory.Models
             {
                 // On utilise le modulo pour éviter une erreur si on demande plus 
                 // de paires qu'on a d'images différentes.
-                string imagePath = banqueImages[i % banqueImages.Length];
+                int pairId = i % banqueImages.Length;
+                string imagePath = banqueImages[pairId];
 
-                // On crée deux cartes identiques (une paire) avec le MÊME Id.
-                // L'Id est simplement 'i', ce qui nous permet de savoir qu'elles vont ensemble.
-                Cartes.Add(new Carte(i, imagePath));
-                Cartes.Add(new Carte(i, imagePath));
+                // L'Id est basé sur l'index de l'image : deux cartes avec le même visuel
+                // partagent le même Id et forment une paire valide, même en grille 6x6.
+                Cartes.Add(new Carte(pairId, imagePath));
+                Cartes.Add(new Carte(pairId, imagePath));
             }
         }
 
